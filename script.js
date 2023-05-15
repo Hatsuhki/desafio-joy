@@ -1,0 +1,1 @@
+function sim(){alert("Sempre soube kkkkkkk"),location.href="https://www.youtube.com/watch?v=hvL1339luv0"}function desvia(a){var b=a;b.style.position="absolute",b.style.bottom=geraPosicao(10,90),b.style.left=geraPosicao(10,90),console.log("opa, desviei...")}function geraPosicao(a,b){return Math.random()*(b-a)+a+"%"}
